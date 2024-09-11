@@ -1,0 +1,74 @@
+.button {
+    width: 55px;
+    height: 55px;
+    min-width: 55px;
+    min-height: 55px;
+    border-top-left-radius: 27px;
+    border-bottom-left-radius: 27px;
+    border-top-right-radius: 27px;
+    border-bottom-right-radius: 27px;
+    transition-duration: 0.35s;
+    transition-timing-function: ease-out-circ;
+}
+
+.button:hover {
+    scale: 1.1 1.1;
+    background-color: rgb(255, 0, 0);
+    -unity-background-image-tint-color: rgb(155, 181, 248);
+}
+
+.button1 {
+}
+
+.button1:hover {
+    transition-duration: 0.35s;
+    transition-timing-function: ease-out-circ;
+    scale: 1.1 1.1;
+    background-color: rgb(0, 61, 0);
+    -unity-background-image-tint-color: rgb(155, 181, 248);
+}
+
+.button3 {
+}
+
+.button3:hover {
+    transition-duration: 0.45s;
+    transition-timing-function: ease-out-circ;
+    scale: 1.3 1.3;
+    background-color: rgb(226, 226, 226);
+    -unity-background-image-tint-color: rgb(229, 229, 229);
+}
+
+.button4 {
+    transition-duration: 0s;
+    scale: 1 1;
+}
+
+.button4:hover {
+    scale: 1.1 1.1;
+    background-color: rgb(201, 204, 238);
+    -unity-background-image-tint-color: rgb(201, 204, 238);
+    transition-timing-function: ease-out-circ;
+    transition-duration: 0.34s;
+    transition-delay: 0s;
+}
+
+.color-picker {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.color-display {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.color {
+}
+
+.color:hover {
+    color: rgba(159, 186, 245, 255);
+}
