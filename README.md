@@ -3,6 +3,8 @@ Here's the translated text from your document:
 # ICG Project by Group < Amoo >
 <!-- An image of the application must be located in the ./img folder relative to this file -->
 
+![Screenshot_2024-09-10_at_23 23 35-removebg-preview-2-2](https://github.com/user-attachments/assets/ee2a9797-8d47-41b1-8e1c-6e3b797386b7)
+   
 <div align="center">
     <img src="img/team.jpg" width="70%">
 </div>
