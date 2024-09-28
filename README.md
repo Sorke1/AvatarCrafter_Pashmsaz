@@ -1,4 +1,3 @@
-Here's the translated text from your document:
 
 # Welcome to Pashmsaz by Group Amoo (6) :
 
